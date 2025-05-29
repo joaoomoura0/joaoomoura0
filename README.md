@@ -1,6 +1,7 @@
 ##  🙋🏽‍♂️ João Victor Moura
 
-Prazer! Sou o João, tenho 17 anos e aqui você vai encontrar meus projetos, estudos e aprendizados na área de tecnologia. 
+Prazer! Sou o João, tenho 17 anos e aqui você vai encontrar meus projetos, estudos e 
+aprendizados na área de tecnologia. 
 
 ---
 
