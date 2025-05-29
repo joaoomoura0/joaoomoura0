@@ -3,7 +3,7 @@
 Prazer! Sou o João, tenho 17 anos e aqui você vai encontrar meus projetos, estudos e aprendizados na área de tecnologia.
 
 Atualmente estou finalizando o 3º ano do ensino médio, junto com o curso técnico em Análise e Desenvolvimento de Sistemas.  
-Sou apaixonado por tecnologia e sempre busco aprender e evoluir na área da programação.
+Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área da programação.
 
 ---
 
