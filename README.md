@@ -7,6 +7,12 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na áre
 
 ---
 
+### 📫 Me encontre por aqui:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-moura)
+
+---
+
 ### 🛠️ Linguagens:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
