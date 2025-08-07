@@ -7,7 +7,7 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+  <a href="[https://www.linkedin.com/in/hemant-j-85518a195/](https://www.linkedin.com/in/jo%C3%A3o-victor-moura/)">
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
   <a href="https://x.com/joaoomoura0">
